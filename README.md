@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Pedro Cardoso
 
-**`Analista de BI`**
+**`Analista de Dados / Analista de BI`**
 
 Link para o Portfólio - [Portfólio](https://carvalhopedro22.github.io/)
 
